@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Meet our team HisarCS",
+        "description": "Hey there! Welcome to HisarCS, our awesome robotics team! We're a bunch of friends who share a love for technology and robots, coming from the IdeaLab in the Hisar School in Istanbul/Turkey. From coding to building, we've got a bit of everything in our group. As we gear up for PiWars, our mentor Sedat Yalçın and we, the team members, Poyraz Özzengi, Kami Topalyan, Melis Peker, Beliz Kasacı, Derin Ökten, are excited and can’t wait to share our journey with you. Get ready for some fun and challenges ahead!",
+        "id": 1
+    },
+    {
+        "title": "Thinking about the design",
+        "description": " We gathered around our computers, deep in thought about our robot's design. We're scribbling ideas, chatting, and sipping on coffee. Every click of the mouse brings us closer to bringing our robot to life. It's a mix of excitement and brainstorming as we figure out how to make our robot the best it can be. First, we exchanged different ideas with each other and decided on making our robot go by 4 wheels on the bottom as we had to complete an obstacle course. Speaking of the obstacle course, we did not forget to design our robot considering the different challenges and planned to create various attachments about them.",
+        "id": 2
+    },
+    {
+        "title": "Deciding On the Electronic Components",
+        "description": "In our workshop, it's decision time. We're looking at all the electronic bits and bobs we need for our robot. We're comparing specs, checking prices, and trying to figure out what will work best. It's a bit tricky, but with some teamwork and brainstorming, we'll get there. First, we had planned on using Pololu motors with metal gearboxes but we did not know whether we could make them work efficiently as they had various gear ratios so we went on with the easier and simpler way and kept the KISS method in our minds (Keep It Simple, Stupid !),  and it is using 6v 250rpm DC motor with yellow gearbox on it. Same method as the motors, we have decided to use ln298 motor controllers as they are more affordable and do the same job compared to other motor controllers and as a camera we will be using Pi Camera v2",
+        "id": 3
+    },
+    {
+        "title": "Manufacturing the Chassis",
+        "description": "Now, it's time to get hands-on. We're in the Idealab, drilling holes and cutting plexiglass to make the chassis for our robot. It's noisy and dusty, but it's also a lot of fun. With every piece we put together, our robot starts to take shape.",
+        "id": 4
+    },
+    {
+        "title": "Re-re-re-re Designing of Our Motor Holders",
+        "description": "Back to the drawing board again! We're looking at our motor holders and trying to figure out how to make them better. It's a bit frustrating at times, but we know that every mistake brings us closer to success. We're determined to get it right, no matter how many tries it takes.",
+        "id": 5
+    },
+    {
+        "title": "The Design of the Camera Holder",
+        "description": "We must not forget the eyes on our robot! We're working hard to build a camera holder that is both stable and ideally positioned. We're experimenting with materials and angles in an effort to find the perfect balance between practicality and style. Although it's a difficult process, we're committed to doing it correctly and managed to design and print the final version of it in just one prototype. Our robot sees the world through the camera, so we want to make sure it has the finest vision possible.",
+        "id": 6
+    },
+    {
+        "title": "The Cover of Our Robot",
+        "description": "The cover of our robot was an important thing that we had to focus on. First, we discussed some ideas and as we had to make our robot look disastrous or  \"responses to disaster\", we decided on designing a robot which looks like a futuristic pick-up truck responding to a disaster and some of our friends even called this design a competitor against the Tesla Cyber-Truck. ",
+        "id": 7
+    },
+    {
+        "title": "The Electronics Board and Power Issues",
+        "description": "We are coming closer to the end. We drilled down some holes for the components that we decided earlier and put most of the components together.",
+        "id": 8
+    },
+    {
+        "title": "The Complete Robot and Testing",
+        "description": "Today, we put all the things together and started to test the capabilities of our robot and make it better by learning from its shortcomings.",
+        "id": 9
+    }
+]
