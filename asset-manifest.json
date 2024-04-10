@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/PiWarsUK-Blog/static/css/main.014c0a33.css",
-    "main.js": "/PiWarsUK-Blog/static/js/main.93e0e2c6.js",
+    "main.js": "/PiWarsUK-Blog/static/js/main.ee4b204b.js",
     "index.html": "/PiWarsUK-Blog/index.html",
     "main.014c0a33.css.map": "/PiWarsUK-Blog/static/css/main.014c0a33.css.map",
-    "main.93e0e2c6.js.map": "/PiWarsUK-Blog/static/js/main.93e0e2c6.js.map"
+    "main.ee4b204b.js.map": "/PiWarsUK-Blog/static/js/main.ee4b204b.js.map"
   },
   "entrypoints": [
     "static/css/main.014c0a33.css",
-    "static/js/main.93e0e2c6.js"
+    "static/js/main.ee4b204b.js"
   ]
 }
