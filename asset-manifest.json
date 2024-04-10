@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PiWarsUK-Blog/static/css/main.421c33f5.css",
+    "main.js": "/PiWarsUK-Blog/static/js/main.76753e7c.js",
+    "index.html": "/PiWarsUK-Blog/index.html",
+    "main.421c33f5.css.map": "/PiWarsUK-Blog/static/css/main.421c33f5.css.map",
+    "main.76753e7c.js.map": "/PiWarsUK-Blog/static/js/main.76753e7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.421c33f5.css",
+    "static/js/main.76753e7c.js"
+  ]
+}
